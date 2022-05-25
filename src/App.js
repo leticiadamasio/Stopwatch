@@ -20,7 +20,7 @@ const Number = styled.h2`
   font-size: 8vh;
   margin-top: 10%;
   margin-bottom: 2%;
-  margin-left: 52.5%;
+  margin-left: 52%;
 `
 const Buttons = styled.div`
   font-family: 'Plus Jakarta Sans', sans-serif;
